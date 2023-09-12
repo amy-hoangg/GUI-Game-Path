@@ -1,0 +1,47 @@
+INSTRUCTION FOR USING THE PROGRAM OF THE GAME "PATH"
+
+I. How to use the program:
+
+1. Run the program to launch the main window.
+2. Ensure that you have clicked the start button, otherwise the button will not be movable.
+3. Click the start button to move the button and start the timer.
+4. To set a goal, click the OK button and the goal will appear.
+5. Choose two colors for the game board.
+6. Choose two icons for the game, and the last two icons clicked will be displayed.
+7. Use the pause button to stop the timer.
+8. Click the reset button to reset the game.
+9. To undo a move, use the undo button.
+10. Use the quit button to exit the game.
+
+
+II. Rules of your game:
+
+The purpose is to move green and red buttons such that finally 
+they are in opposite places than at the beginning. 
+Assuming that at the beginning, the buttons are as shown 
+in the drawn picture, i.e. the green ones 
+are at the top and the red ones at the bottom, the aim is
+ to reach the situation where green buttons 
+are at the bottom and the red ones at the top. It is possible 
+to reach this final situation with 31 moves, in minimum.
+It is not allowed to move a button over another one, but the 
+moves are made along a path of empty places. 
+A move can be as long as there is such kind of path.
+
+
+III. Functionalities
+
+Minimum requirements:
+1. displaying the game grid
+2. choosing a piece to be moved and its new location
+3. telling the amount of moves made
+4. reseting the game
+5. timer telling the time used so far
+
+Extra features:
+1. choose colours of the game pieces
+2. add icons to the buttons
+3. background changes when complete goals
+4. set goals
+5. pause the time
+6. undo the moves
