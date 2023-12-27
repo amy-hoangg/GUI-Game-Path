@@ -1,4 +1,11 @@
 # GUI-Game-Path
+How the user interface looks like
+
+1. When starting the game
+![Alt text](path1.png)
+
+2. When changing the color of items in the game
+![Alt text](path2.png)
 
 ## I. How to Use the Program
 
